@@ -9,6 +9,11 @@
       "id": 2,
       "username": "new_user",
       "password": "abc123"
+    },
+    {
+      "id": 3,
+      "username": "sunil",
+      "password": "sunil"
     }
   ],
   "blogs": [
